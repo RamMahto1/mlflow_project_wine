@@ -1,0 +1,10 @@
+artifact_location: file:///E:/mlflow_experiment/wine_project/mlflow_project/mlruns/0/models/m-d4d9821735b543b48ffd6f48ee80feee/artifacts
+creation_timestamp: 1750546287207
+experiment_id: '0'
+last_updated_timestamp: 1750546294354
+model_id: m-d4d9821735b543b48ffd6f48ee80feee
+model_type: null
+name: decision_tree_model
+source_run_id: de4a56725aad43db8473fbd1a25a5517
+status: 2
+status_message: null

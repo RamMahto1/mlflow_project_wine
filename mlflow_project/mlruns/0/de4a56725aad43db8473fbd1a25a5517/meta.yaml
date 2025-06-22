@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/wine_project/mlflow_project/mlruns/0/de4a56725aad43db8473fbd1a25a5517/artifacts
+end_time: 1750546294370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de4a56725aad43db8473fbd1a25a5517
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750546286970
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

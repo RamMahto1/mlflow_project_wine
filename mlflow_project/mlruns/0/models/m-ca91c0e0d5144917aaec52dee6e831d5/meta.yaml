@@ -1,0 +1,10 @@
+artifact_location: file:///E:/mlflow_experiment/wine_project/mlflow_project/mlruns/0/models/m-ca91c0e0d5144917aaec52dee6e831d5/artifacts
+creation_timestamp: 1750546486014
+experiment_id: '0'
+last_updated_timestamp: 1750546492705
+model_id: m-ca91c0e0d5144917aaec52dee6e831d5
+model_type: null
+name: random_forest_model
+source_run_id: a913030f8d5a46aa843879b1b54228d2
+status: 2
+status_message: null
